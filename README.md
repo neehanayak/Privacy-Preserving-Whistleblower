@@ -129,19 +129,19 @@ The answer is **yes**. That is what makes the system privacy-preserving instead 
 
 ### Landing Page
 
-![Landing](sandbox:/mnt/data/pic%201.png)
+![Landing](assets/pic1.png)
 
 ### Moderator Dashboard
 
-![Moderator](sandbox:/mnt/data/pic2.png)
+![Moderator](assets/pic2.png)
 
 ### Anonymous Reporting
 
-![Reporting](sandbox:/mnt/data/pic3.png)
+![Reporting](assetspic3.png)
 
 ### Platform Statistics
 
-![Stats](sandbox:/mnt/data/pic%204.png)
+![Stats](assets/pic4.png)
 
 ---
 
