@@ -133,15 +133,15 @@ The answer is **yes**. That is what makes the system privacy-preserving instead 
 
 ### Moderator Dashboard
 
-![Moderator](assets/pic2.png)
+![Moderator](assets/pic4.png)
 
 ### Anonymous Reporting
 
-![Reporting](assetspic3.png)
+![Reporting](assets/pic2.png)
 
 ### Platform Statistics
 
-![Stats](assets/pic4.png)
+![Stats](assets/pic3.png)
 
 ---
 
