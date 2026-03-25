@@ -1,0 +1,92 @@
+@import "tailwindcss";
+
+:root {
+  font-family: "Outfit", system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  font-weight: 400;
+
+ 
+  color-scheme: light;
+  color: #233127;         
+  background-color: #f7f2e8; 
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  font-weight: 500;
+  text-decoration: inherit;
+  transition: opacity 0.3s ease, color 0.3s ease;
+  color: #2f6f4f; 
+}
+
+a:hover {
+  opacity: 0.9;
+  color: #3f8b63; 
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  overflow-x: hidden;
+
+  background: radial-gradient(circle at top left, #fdf7ee 0%, #f7f2e8 40%, #e9e0cf 100%);
+  color: #233127;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.15;
+  font-weight: 700;
+  color: #234636; 
+}
+
+h2 {
+  font-size: 2em;
+  line-height: 1.25;
+  font-weight: 600;
+  color: #275647;
+}
+
+h3 {
+  font-size: 1.5em;
+  line-height: 1.35;
+  font-weight: 600;
+  color: #2b6a4f;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+  border: none;
+  outline: none;
+}
+
+button:disabled {
+  cursor: not-allowed;
+}
+
+input,
+textarea {
+  font-family: inherit;
+  outline: none;
+  color: #233127;
+  background-color: transparent;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #233127;
+    background-color: #f7f2e8;
+  }
+}
